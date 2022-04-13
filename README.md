@@ -1,5 +1,5 @@
 ### Olá, meu nome é Laiane Rabelo Gerotto!
-  - 🎓 Graduado em Análise e Desenvolvimento de Sistemas
+  - 🎓 Graduanda em Análise e Desenvolvimento de Sistemas
   - 🌱 Estudando Python🐍| Flask | Django
   - 😄 Pronouns: Ela/dela
   
