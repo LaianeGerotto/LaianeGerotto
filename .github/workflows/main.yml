@@ -26,7 +26,4 @@ jobs:
 
           # list of files to generate.
           # one file per line. Each output can be customized with options as query string.
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+          svg_out_path: dist/github-snake.svg
