@@ -2,6 +2,7 @@
   - 🎓 Graduanda em Análise e Desenvolvimento de Sistemas
   - 🌱 Estudando Python🐍| Flask | Django
   - 😄 Pronouns: Ela/dela
+  - 😍 Apaixonada por 🐶🐶
   
  <div align="center">
   <a href="https://github.com/LaianeGerotto">
