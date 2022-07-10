@@ -2,7 +2,7 @@
   - 🎓 Graduanda em Análise e Desenvolvimento de Sistemas
   - 🌱 Estudando Python🐍| Flask | Django
   - 😄 Pronouns: Ela/dela  
-  - 🚀 Em busca de uma oportunidade de Estágio ou Jr.
+  - 🚀 Em busca de uma oportunidade de Estágio.
   - 😍 Apaixonada por 🐶🐶
   
  <div align="center">
