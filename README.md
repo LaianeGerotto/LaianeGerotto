@@ -1,6 +1,5 @@
-### Olá, meu nome é Laiane Rabelo Gerotto!
-  - 🎓 Graduanda em Análise e Desenvolvimento de Sistemas
-  - 🌱 Python🐍| Flask | Django   
+### Olá, meu nome é Laiane Rabelo Gerotto!s
+  - 🌱 Python🐍 
   - 😍 Apaixonada por 🐶🐶
   
  <div align="center">
